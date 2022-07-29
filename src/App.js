@@ -27,16 +27,11 @@ class App extends Component {
 
           {/*this.state.monsters.map(monsters => <CardList id = {monsters.id} name = {monsters.name}/>)*/}
 
-
           <h2>fetched content</h2>
-
-
-
 
         </header>
       </div>
     );
   }
 }
-
 export default App;
